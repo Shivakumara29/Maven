@@ -1,4 +1,5 @@
 Install Maven on Ubuntu with APT   Main LINk (https://phoenixnap.com/kb/install-maven-on-ubuntu))
+
 sudo apt update
 sudo apt install maven -y
 mvn -version
